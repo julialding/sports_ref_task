@@ -3,9 +3,10 @@ This solution uses Python to read in a json file (called "data.json"), which is 
 
 Next, the solution prints out the table. It does so through first formatting the header and then the matrix, adding spaces between each cell for readability.
 
-The output for the example data is as follows:__
-    **BRO BSN CHC CIN NYG PHI PIT STL**
+The output for the example data is as follows:
 
+   BRO BSN CHC CIN NYG PHI PIT STL
+    
 BRO   -  10  15  15  14  14  15  11
 
 BSN 12  -  13  13  13  14  12  9
